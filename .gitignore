@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+
+core
+**/build-deps
+stashcli
+*.c
+*.scmx
+*.o
