@@ -1,4 +1,4 @@
-#!/usr/local/bin/gxi
+#!/usr/bin/env gxi
 ;; -*- Gerbil -*-
 (import :std/build-script)
 
